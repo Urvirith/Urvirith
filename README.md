@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Urvirith
-- 👀 I’m interested in embedded, blockchain, rust, go and C
+- 👀 I’m interested in Embedded, Blockchain, Rust, Go and C
 - 🌱 I’m currently learning C and Rust for Embedded Applications
 - 💞️ I’m looking to collaborate on baremetal embedded projects, blockchain projects
 - 📫 How to reach me jake.mussler@protonmail.com
